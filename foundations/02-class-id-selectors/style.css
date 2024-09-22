@@ -1,0 +1,24 @@
+/* CSS Stylesheet */
+
+
+/* Classes */
+.odd-numbers {
+    background-color: #f48799;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.number-three {
+    font-size: 24px;
+}
+
+
+
+/* IDs */
+#number-two {
+    color: #0000ff;
+    font-size: 36px;
+}
+#number-four {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: 700;
+}
