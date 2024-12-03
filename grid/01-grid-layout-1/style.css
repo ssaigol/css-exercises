@@ -12,8 +12,8 @@ html {
 
   display: grid;
   gap: 15px;
-  grid-template-columns: 33% 66%;
-  grid-template-rows: 12.5% 12.5% 62.5% 12.5%;
+  grid-template-columns: 25% 75%;
+  grid-template-rows: 12% 12% 60% 12%;
 }
 
 .container div {
